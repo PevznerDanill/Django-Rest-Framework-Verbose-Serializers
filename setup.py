@@ -14,12 +14,12 @@ with open('README.md', 'r') as f:
 setup(
     name='drf-verbose-serializers',
     version=version,
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Даниил Певзнер',
+    author_email='pevzner.danil@gmail.com',
     description='Django REST framework extension providing verbose field names for serializers',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/drf-verbose-serializers',
+    url='https://github.com/PevznerDanill/Django-Rest-Framework-Verbose-Serializers',
     packages=find_packages(),
     classifiers=[
         'Development Status :: 3 - Alpha',
