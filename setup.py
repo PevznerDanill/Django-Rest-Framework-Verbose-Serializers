@@ -17,6 +17,7 @@ setup(
     author='Даниил Певзнер',
     author_email='pevzner.danil@gmail.com',
     description='Django REST framework extension providing verbose field names for serializers',
+    license='MIT',
     long_description=long_description,
     long_description_content_type='text/markdown',
     url='https://github.com/PevznerDanill/Django-Rest-Framework-Verbose-Serializers',
